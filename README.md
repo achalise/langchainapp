@@ -1,6 +1,6 @@
 # langchainapp
 
-See [Building FullStack LangChain4J Application using SpringBoot and React](https://chalise-arun.medium.com/step-by-step-guide-to-building-a-fullstack-langchain4j-application-0dfd4f0ef7bc) more details.
+See [Building FullStack LangChain4J Application using SpringBoot and React](https://chalise-arun.medium.com/step-by-step-guide-to-building-a-fullstack-langchain4j-application-0dfd4f0ef7bc) for more details.
 
 Ensure OpenAI API Key is available as env variable:
 
