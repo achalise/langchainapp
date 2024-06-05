@@ -3,9 +3,12 @@
 See [Building FullStack LangChain4J Application using SpringBoot and React](https://chalise-arun.medium.com/step-by-step-guide-to-building-a-fullstack-langchain4j-application-0dfd4f0ef7bc) more details.
 
 Ensure OpenAI API Key is available as env variable:
+
 ```export AI_OPENAI_API_KEY=$(AI_OPENAI_API_KEY)```
+
 And Docker desktop is running.
 To start the application 
+
 ```./mvnw spring-boot:run```
 
 We can now query our internal data using RAG:
