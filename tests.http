@@ -1,1 +1,1 @@
-GET http://localhost:8080/chat?question=Please list the current users
+GET http://localhost:8080/chat?question=Please list the current applications
