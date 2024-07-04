@@ -1,6 +1,5 @@
 package example.app.langchain.langchainapp.service;
 
-import dev.langchain4j.agent.tool.Tool;
 import opennlp.tools.util.StringUtil;
 
 import java.util.ArrayList;
